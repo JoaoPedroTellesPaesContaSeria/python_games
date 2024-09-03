@@ -12,7 +12,7 @@ SCORE_MAX = 2
 
 size = (1280, 720)
 screen = pygame.display.set_mode(size)
-pygame.display.set_caption("MyPong - PyGame Edition - 2022-12-12")
+pygame.display.set_caption("MyPong - PyGame Edition - 2024-09-02")
 
 # score text
 score_font = pygame.font.Font('assets/PressStart2P.ttf', 44)
